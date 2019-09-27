@@ -11,8 +11,7 @@ MIT License
 Phuc Nguyen - phucnt@nii.ac.jp
 
 ### Datasets
-Under construction
+Will be made available
 
 ### Demo
-Under construction
-
+Will be made available
