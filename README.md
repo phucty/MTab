@@ -1,8 +1,8 @@
 # MTab
-Demo for the paper of "MTab: Matching Tabular Data to Knowledge Graph using Probability Models", SemTab 2019. 
+Demo for the paper of "MTab: Matching Tabular Data to Knowledge Graph using Probability Models", SemTab 2019 [1]. 
 Authors: Phuc Nguyen, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda
 
-This paper presents the design of our system, namely MTab, for Semantic Web Challenge on Tabular Data to Knowledge Graph Matching (SemTab 2019) [1]. MTab combines the voting algorithm and the probability models to solve critical problems of the matching tasks. Results on SemTab 2019 show that MTab obtains promising performance for the three matching tasks. 
+This paper presents the design of our system, namely MTab, for Semantic Web Challenge on Tabular Data to Knowledge Graph Matching (SemTab 2019) [2]. MTab combines the voting algorithm and the probability models to solve critical problems of the matching tasks. Results on SemTab 2019 show that MTab obtains promising performance for the three matching tasks. 
 
 ### License
 MIT License
@@ -19,4 +19,5 @@ Phuc Nguyen - phucnt@nii.ac.jp
 Will be made available
 
 ### References
-[1] http://www.cs.ox.ac.uk/isg/challenges/sem-tab/
+[1] [https://arxiv.org/abs/1910.00246](https://arxiv.org/abs/1910.00246)
+[2] http://www.cs.ox.ac.uk/isg/challenges/sem-tab/
